@@ -1,0 +1,10 @@
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.cproject
+.project
+.settings
+Startup
+*.ld
+PMSM Debug.launch
+Debug/*
+!Debug/PMSM.hex
